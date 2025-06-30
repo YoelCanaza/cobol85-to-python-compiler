@@ -14,7 +14,11 @@ Implementación de un compilador que traduce un subconjunto de COBOL-85 a Python
 
 ## Estructura del código
 ├── lexer.l # Reglas léxicas (Flex)
+
 ├── parser.y # Gramática (Bison)
+
 ├── Makefile # Automatización de compilación
+
 ├── test.cbl # Programa COBOL de prueba
+
 └── output.py # Salida Python generada
