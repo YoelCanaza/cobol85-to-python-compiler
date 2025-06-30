@@ -1,7 +1,7 @@
 # Compilador COBOL-85 a Python
 
 ## Descripción
-Implementación de un compilador que traduce un subconjunto de COBOL-85 a Python, desarrollado con Flex y Bison. Proyecto académico asociado al artículo: "Un enfoque basado en Flex/Bison para traducción de COBOL-85 a Python".
+Implementación de un compilador que traduce un subconjunto de COBOL-85 a Python, desarrollado con Flex y Bison.
 
 ## Características
 - Traducción de divisiones básicas (`IDENTIFICATION`, `DATA`, `PROCEDURE`)
