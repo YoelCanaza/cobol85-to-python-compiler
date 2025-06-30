@@ -21,4 +21,5 @@ Implementación de un compilador que traduce un subconjunto de COBOL-85 a Python
 
 ├── test.cbl # Programa COBOL de prueba
 
-└── output.py # Salida Python generada
+└── output.py # Salida Python generada (se incluyó el código python generado por el compilador, pero se puede borrar fácilmente con make clean y luego
+volver a generarlo usando make test)
